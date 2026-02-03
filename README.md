@@ -1,4 +1,4 @@
-## 🚀 GymSnap (Co-Developer)
+## 🚀 LockedIn (Co-Developer)
 
 **Repo:** [GymSnap](https://github.com/ukkandi/Gymsnap)  
 **Tech:** React, JavaScript, TailwindCSS, Vite  

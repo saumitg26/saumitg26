@@ -1,31 +1,18 @@
+# 💫 About Me:
+👨‍💻 CS @ GMU | Math Learning Assistant<br><br>🚀 Mobile Dev Intern at Junoon Wellness – Engineered real-time nutrition engines and optimized high-performance video playback.<br><br>🧠 Founder of SparkSphere – Launched a non-profit to provide tech education and resources to students globally.<br><br>🛠️ Co-Developer of PatriotGo – Engineered a real-time carpooling platform for the GMU community using a hybrid-cloud architecture (AWS + Supabase).<br><br>⚡ CyberPatriot Platinum Semifinalist – Advanced experience in network hardening and systems security.<br><br>🛡️ Most Recent: CyberSurfaceMapper – Developed an automated reconnaissance tool for network surface mapping and vulnerability identification.<br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saumit-guduguntla-640133279/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:write2saumitg@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saumitg26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=saumitg26&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saumitg26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-## 🚀 LockedIn (Co-Developer)
+[![](https://visitcount.itsvg.in/api?id=saumitg26&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Repo:** [GymSnap](https://github.com/ukkandi/Gymsnap)  
-**Tech:** React, JavaScript, TailwindCSS, Vite  
-
-A real-time, browser-only gym-tracking and behavior-matching app that uses on-device pose estimation, custom analytics, and dynamic embeddings to understand training style and match users based on consistency, intensity, and behavior patterns.
-
-**My Contributions:**  
-- Designed and implemented the Profile + Analytics interface with embedding visualization, training category breakdowns, and activity summaries
-- Built the frontend data-flow pipeline connecting rep events → embedding updates → streak engine → UI components
-- Developed reusable React components that consume AI-layer and core-logic outputs with consistent state synchronization
-- Created UI logic for calendar activity, heatmap data, streak summaries, and training-style analytics with real-time updates
-- Contributed to overall interaction design to keep the app cohesive and responsive without a backend
-
----
-
-## 🚀 PatriotGo (Co-Developer)
-
-**Repo:** [PatriotGo](https://github.com/saumitg26/PatriotGo)  
-**Tech:** React Native, Expo, Supabase, Amazon DynamoDB, Amazon Redshift  
-
-A high-performance carpooling platform built for students at George Mason University that enables real-time ride coordination, secure peer-to-peer messaging, and large-scale commute analytics through a hybrid-cloud architecture.
-
-**My Contributions:**  
-- Engineered the real-time messaging system using Supabase Realtime (WebSockets), implementing optimistic UI updates and custom message-consistency logic for low-latency communication  
-- Architected a hybrid-cloud data pipeline separating operational data (PostgreSQL), high-speed session state (DynamoDB), and long-term analytics workloads (Redshift)  
-- Designed and implemented core mobile UI systems including the Live Driver Feed, Floating Island navigation, and safe-area aware layouts  
-- Developed authentication flows and enforced Row Level Security (RLS) policies to ensure secure, isolated student data access  
-- Built the ride-matching “Pinging” workflow with state-driven UI updates and haptic feedback for high-fidelity interaction  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

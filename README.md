@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 CS @ GMU | Math Learning Assistant<br><br>🚀 Mobile Dev Intern at Junoon Wellness – Engineered real-time nutrition engines and optimized high-performance video playback.<br><br>🧠 Founder of SparkSphere – Launched a non-profit to provide tech education and resources to students globally.<br><br>.<br><br>⚡ CyberPatriot Platinum Semifinalist – Advanced experience in network hardening and systems security.<br><br>🛡️ Most Recent: CyberSurfaceMapper – Developed an automated reconnaissance tool for network surface mapping and vulnerability identification.<br>
+👨‍💻 CS @ GMU | Math Learning Assistant<br><br>🧠 Founder of SparkSphere – Launched a non-profit to provide tech education and resources to students globally.<br><br>⚡ CyberPatriot Platinum Semifinalist – Advanced experience in network hardening and systems security.<br><br>🛡️ Most Recent: CyberSurfaceMapper – Developed an automated reconnaissance tool for network surface mapping and vulnerability identification.<br>
 
 
 ## 🌐 Socials:

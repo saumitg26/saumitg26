@@ -82,7 +82,6 @@ I've used these technologies across classes, hackathons, and personal projects. 
 ## Beyond projects
 
 - **Learning Assistant, GMU:** Helped students work through precalculus concepts and problem-solving.
-- **Founder, SparkSphere:** Started a nonprofit initiative to make programming education more accessible.
 - **CyberPatriot Platinum Semifinalist:** Competed in system security and hardening challenges.
 
 I enjoy working on different kinds of problems, and I'm always interested in projects where the technical work connects to a real need.

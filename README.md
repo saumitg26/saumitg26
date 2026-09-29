@@ -59,26 +59,6 @@ I've used these technologies across classes, hackathons, and personal projects. 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=saumitg26&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=saumitg26&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=saumitg26&theme=tokyonight&hide_border=true)
-
-</div>
-
-### Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumitg26/saumitg26/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saumitg26/saumitg26/output/github-snake.svg" />
-  <img alt="Saumit's GitHub contribution graph" src="https://raw.githubusercontent.com/saumitg26/saumitg26/output/github-snake.svg" />
-</picture>
-
 ## Beyond projects
 
 - **Learning Assistant, GMU:** Helped students work through precalculus concepts and problem-solving.

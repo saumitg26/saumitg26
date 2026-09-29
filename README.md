@@ -6,7 +6,7 @@ Most of my projects sit somewhere between **full-stack development, applied AI, 
 
 **Currently:** Learning, building with teams, and looking for **Summer 2027 software engineering internships**.
 
-[LinkedIn](https://www.linkedin.com/in/saumit-guduguntla/) · [Email](mailto:write2saumitg@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/saumit-guduguntla/) · [Email](mailto:saumitg26@gmail.com)
 
 ## Selected projects
 
@@ -59,9 +59,26 @@ I've used these technologies across classes, hackathons, and personal projects. 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=saumitg26&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=saumitg26&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=saumitg26&theme=tokyonight&hide_border=true)
+
+</div>
+
+### Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saumitg26&theme=tokyo-night&hide_border=true)
+
 ## Beyond projects
 
 - **Learning Assistant, GMU:** Helped students work through precalculus concepts and problem-solving.
+- **Founder, SparkSphere:** Started a nonprofit initiative to make programming education more accessible.
 - **CyberPatriot Platinum Semifinalist:** Competed in system security and hardening challenges.
 
 I enjoy working on different kinds of problems, and I'm always interested in projects where the technical work connects to a real need.

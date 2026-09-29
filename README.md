@@ -1,18 +1,65 @@
-# 💫 About Me:
-👨‍💻 CS @ GMU | Math Learning Assistant<br><br>🧠 Founder of SparkSphere – Launched a non-profit to provide tech education and resources to students globally.<br><br>⚡ CyberPatriot Platinum Semifinalist – Advanced experience in network hardening and systems security.<br><br>🛡️ Most Recent: CyberSurfaceMapper – Developed an automated reconnaissance tool for network surface mapping and vulnerability identification.<br>
+# Hi, I'm Saumit 👋
 
+I'm a **Computer Science student at George Mason University** who enjoys building useful software—from the interface people see to the systems behind it.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saumit-guduguntla-640133279/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:write2saumitg@gmail.com) 
+Most of my projects sit somewhere between **full-stack development, applied AI, cloud infrastructure, and cybersecurity**. I like figuring out how the pieces fit together and making the result straightforward to use.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saumitg26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saumitg26&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saumitg26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Currently:** Learning, building with teams, and looking for **Summer 2027 software engineering internships**.
 
----
-[![](https://visitcount.itsvg.in/api?id=saumitg26&icon=0&color=0)](https://visitcount.itsvg.in)
+[LinkedIn](https://www.linkedin.com/in/saumit-guduguntla/) · [Email](mailto:saumitg26@gmail.com)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Selected projects
+
+**[TriageAI](https://github.com/gitsamridhm/TriageAI)** · `React` `FastAPI` `PostgreSQL` `Gemini` `Presage`  
+An emergency-department triage decision-support app built with my team at VTHacks 14. It brings together contactless vital-sign capture, explainable ESI recommendations, a live patient-priority queue, and clinician review and overrides.
+
+**[PhishLens](https://github.com/saumitg26/PhishLens)** · `TypeScript` `Chrome Extension` `Threat Intelligence`  
+A Manifest V3 browser extension that flags suspicious pages, links, and forms. It uses transparent, evidence-based risk scoring and local threat-intelligence lookups rather than giving users an unexplained warning.
+
+**[MissionPay Guard](https://github.com/saumitg26/missionpay_guard)** · `Python` `AWS Lambda` `Step Functions` `DynamoDB`  
+A team-built pre-disbursement payment screening system with document extraction, risk checks, human-reviewed exceptions, and an audit trail. Our team placed **4th at the AWS Maximus Global Government Hackathon**.
+
+**[PatriotGo](https://github.com/saumitg26/PatriotGo)** · `React Native` `Expo` `Supabase`  
+A campus carpooling app built at PatriotHacks, with a live ride feed, real-time messaging, and rider–driver coordination.
+
+**[CyberSurfaceMapper](https://github.com/saumitg26/CyberSurfaceMapper)** · `Python` `Streamlit`  
+A security reconnaissance dashboard that combines HTTP header checks, TCP port probing, and an explainable risk summary.
+
+## 💻 Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**Frontend & Mobile**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+**Backend, Cloud & Data**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Developer Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## Beyond projects
+
+- **Learning Assistant, GMU:** Helped students work through precalculus concepts and problem-solving.
+- **CyberPatriot Platinum Semifinalist:** Competed in system security and hardening challenges.
+
+I enjoy working on different kinds of problems, and I'm always interested in projects where the technical work connects to a real need.

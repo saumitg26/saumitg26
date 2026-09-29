@@ -73,7 +73,11 @@ I've used these technologies across classes, hackathons, and personal projects. 
 
 ### Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saumitg26&theme=tokyo-night&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumitg26/saumitg26/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saumitg26/saumitg26/output/github-snake.svg" />
+  <img alt="Saumit's GitHub contribution graph" src="https://raw.githubusercontent.com/saumitg26/saumitg26/output/github-snake.svg" />
+</picture>
 
 ## Beyond projects
 
